@@ -1,6 +1,3 @@
-export const RANDOM_GAME_NFT_CONTRACT_ADDRESS =
-  "0xC4FD694269f228a554A3512fDa641B0Aa94684E3";
-
 export const abi = [
   {
     inputs: [
@@ -272,3 +269,5 @@ export const abi = [
     type: "receive",
   },
 ];
+export const RANDOM_GAME_NFT_CONTRACT_ADDRESS =
+  "0xC4FD694269f228a554A3512fDa641B0Aa94684E3";
